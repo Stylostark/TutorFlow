@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885764200530",
+    "project_id": "tutorflow-9a00d",
+    "storage_bucket": "tutorflow-9a00d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885764200530:android:a999f8e8ff2607474e678b",
+        "android_client_info": {
+          "package_name": "com.aistudio.tutorflow.kxmpzq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9myPx1Z1ILFdKW_wDszfFXbCvhG0zk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
